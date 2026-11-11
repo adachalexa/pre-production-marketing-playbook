@@ -23,8 +23,7 @@ It is a static site with no build step. Open `index.html` in a browser, or publi
 
 ## Still to do
 
-- Add the deck and paper PDFs (for example in a `downloads/` folder) and point the two buttons on `download.html` to them.
-- Replace `[Team names · UConn]` in the footers.
+- The deck and white paper PDFs (`playbook-deck.pdf`, `playbook-white-paper.pdf`) download from `download.html`.
 - Poster images (`.jpg` / `.webp`) are the films' official key art, used for a class project.
 
 ## Data
