@@ -14,7 +14,7 @@ Each film page breaks the research into eight questions: Did it work? How was it
 | Home (choose your path) | `index.html` |
 | Blockbuster path + executive takeaways | `blockbusters.html` |
 | Small-budget path + executive takeaways | `small-budget.html` |
-| Film research pages | `films/*.html` |
+| Film research pages | `the-odyssey.html`, `barbie.html`, `sinners.html`, `obsession.html`, `anyone-but-you.html`, `backrooms.html` |
 | Download the deck and paper | `download.html` |
 
 ## Run it
@@ -25,7 +25,7 @@ It is a static site with no build step. Open `index.html` in a browser, or publi
 
 - Add the deck and paper PDFs (for example in a `downloads/` folder) and point the two buttons on `download.html` to them.
 - Replace `[Team names · UConn]` in the footers.
-- Poster images in `images/` are the films' official key art, used for a class project.
+- Poster images (`.jpg` / `.webp`) are the films' official key art, used for a class project.
 
 ## Data
 
